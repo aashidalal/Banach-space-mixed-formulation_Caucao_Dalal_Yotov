@@ -1,9 +1,5 @@
 Banach space mixed formulation_Caucao_Dalal_Yotov.pdf contains the pdf file of the research paper titled, "A Banach space mixed formulation for the fully dynamic
  Navier–Stokes–Biot coupled problem".
-Banach formulation_Caucao_Dalal_Yotov.tex is the tex file of the research paper titled, "A Banach space mixed formulation for the fully dynamic
- Navier–Stokes–Biot coupled problem".
-Banach formulation_Caucao-Dalal-Yotov.bib is the bibtex file of the research paper titled, "A Banach space mixed formulation for the fully dynamic
- Navier–Stokes–Biot coupled problem".
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ZIP FOLDERS FOR EXAMPLE 1: CONVERGENCE TEST
